@@ -1,0 +1,4 @@
+a) index = 2 
+b) index = 4
+c) index = 1
+d) index = 7
